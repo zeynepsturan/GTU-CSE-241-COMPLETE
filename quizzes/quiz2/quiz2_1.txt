@@ -1,0 +1,3 @@
+Question: Why is assigning integers to enums bad in C++98? How does C++11 find a solution for that?
+----------------------------------------------------------------------------------------------------
+Answer:
