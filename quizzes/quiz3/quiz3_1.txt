@@ -1,0 +1,16 @@
+Question 1: Why do we call it default arguments but not default parameters?
+
+Question 2: In C++, why doyou think return type is not a part of the function signature?
+
+Question 3: What is wrong with the following function that adds 1 to a non-negative integer?
+
+->  int addOne(){
+->    assert(i++>=0);
+->    return i;
+->  }
+--------------------------------------------------------------------------------------------------------
+Answer 1:
+
+Answer 2:
+
+Answer 3:
