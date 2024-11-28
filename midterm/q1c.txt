@@ -1,0 +1,1 @@
+They are not part of any scope and they are accesible in everywhere in the program. They are created once and used until the end of the program.

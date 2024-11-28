@@ -1,0 +1,1 @@
+Sending objects as argument without reference makes the program copy the whole object and it is inefficient. It's okay for small data types to not use reference but bigger data types like class objects requires reference for efficiency.
