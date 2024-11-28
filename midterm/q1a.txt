@@ -1,0 +1,3 @@
+Using post increment/decrement in assert condition is wrong because assert is only used for debugging and when we don't debug the statement won't work and broke the code.
+
+Line also has post increment so even while debugging if the assert statement is false the program will end and post increment won't work
