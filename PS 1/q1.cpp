@@ -1,3 +1,5 @@
+//write a program that finds and prints all of the prime numbers between 3 and 100.
+
 #include <iostream>
 #include <cmath>
 using namespace std;
