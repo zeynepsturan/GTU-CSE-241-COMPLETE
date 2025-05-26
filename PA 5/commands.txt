@@ -1,0 +1,11 @@
+search "Nolan" in "director"
+search "Matrix" in "title"
+search "2019" in "year"
+search "Drama" in "genre"
+search "Fishburne" in "cast"
+sort "title"
+sort "year"
+sort "actor"
+sort "genre"
+invalid command example
+sort year extra_stuff
